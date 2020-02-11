@@ -2,6 +2,34 @@
   text-align: center;
 }
 
+.Header {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+
+.HeaderStyle {
+  padding: 6px;
+  color: #000;
+  text-align: center;
+  border-radius: 1%;
+}
+
+.link {
+  color: #fff;
+  text-decoration: none;
+}
+
+span {
+  font-weight: bold;
+}
+
+img {
+  width: 100px;
+  float: right;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
